@@ -43,8 +43,7 @@ Atuo em ambientes **multicloud (AWS, Oracle Cloud, Azure)**, sempre buscando **s
 
 ## 🌐 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-belarmino-41a912155/)    
 
 ---
 ✨ Sempre buscando evoluir como profissional de infraestrutura, cloud e segurança, entregando valor para pessoas e negócios.
