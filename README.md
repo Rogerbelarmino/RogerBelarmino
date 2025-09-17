@@ -12,7 +12,7 @@ Atuo em ambientes **multicloud (AWS, Oracle Cloud, Azure)**, sempre buscando **s
 - 🐳 Containers: **Docker, Docker Compose, Portainer**  
 - 📊 Observabilidade: **Zabbix, Datadog, Grafana**  
 - 🔒 Segurança: **IAM, EntraID, Cloudflare WAF/ZeroTrust, Firewalls pfSense**  
-- ⚙️ **DevOps**: Git, GitHub Actions (CI/CD)  
+- ⚙️ **DevOps**: Git, GitHub Actions, (CI/CD), e Jenkins
 - 📜 Documentação: **Políticas de Segurança, Inventários, Notion**  
 - 🎯 Sempre aprendendo, colaborando e evoluindo.  
 
