@@ -34,12 +34,6 @@ Atuo em ambientes **multicloud (AWS, Oracle Cloud, Azure)**, sempre buscando **s
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Roger GitHub stats](https://github-readme-stats.vercel.app/api?username=RogerBelarmino&show_icons=true&theme=tokyonight)  
-
----
-
 ## 🌐 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-belarmino-41a912155/)    
